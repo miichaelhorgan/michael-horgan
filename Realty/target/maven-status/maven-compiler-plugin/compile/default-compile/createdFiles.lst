@@ -1,0 +1,5 @@
+model\Properties.class
+model\Properties_.class
+controller\DisplayAllProperties.class
+model\PropertiesDB.class
+model\DBUtil.class
